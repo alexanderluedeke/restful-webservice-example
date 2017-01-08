@@ -5,7 +5,7 @@
 
  and respond with a JSON representation of a echo:
  ```
- {"id":1,"content":"Hello, World!"}
+ {"id":1,"content":"Hello, User!"}
  ```
 
  You can customize the echo with an optional name parameter in the query string:
